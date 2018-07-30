@@ -3,6 +3,7 @@ The following is a TDD Kata- an exercise in coding, refactoring and test-first.
 
 ## Before you start: 
 - You will need Visual Studio or Rider. Get Visual Studio Code here : https://code.visualstudio.com/   
+- You will also need this: https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code to get started creating a console application to work with.  
 - Try not to read ahead.
 - Do one task at a time. The trick is to learn to work incrementally. 
 - Make sure you only test for correct inputs. there is no need to test for invalid inputs for this kata
